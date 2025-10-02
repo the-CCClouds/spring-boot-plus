@@ -7,7 +7,7 @@
   Everyone can develop projects independently, quickly and efficiently！
 </p>
 
-> 本项目基于 [mall](https://github.com/macrozheng/mall) 搬运，遵循其开源协议（MIT-License）。
+> 本项目基于 [spring-boot-plus](https://github.com/geekidea/spring-boot-plus) 搬运，遵循其开源协议（MIT-License）。
 
 > 一个脚手架框架。整合常用组件（MyBatis-Plus, Redis, Swagger / Knife4j 等），适合快速搭建项目骨架／后台管理系统。
 
